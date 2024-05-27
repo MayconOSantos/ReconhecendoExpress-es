@@ -6,7 +6,7 @@ Aqui está uma breve explicação das principais partes do código:
 
 2)Definição das classes de expressão: As classes de expressão (por exemplo, surpresa, tristeza, felicidade) são definidas para mapear as saídas do modelo às emoções corespondentes.
 
-3) Inicialização da captura de vídeo: A captura de vídeo é inicializada, normalmente a partir da webcam do computador.
+3)Inicialização da captura de vídeo: A captura de vídeo é inicializada, normalmente a partir da webcam do computador.
 
 4)Loop principal: O programa entra em um loop infinito, onde cada iteração representa um quadro de vídeo capturado.
 
