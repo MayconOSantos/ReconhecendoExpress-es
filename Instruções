@@ -1,0 +1,13 @@
+1) Descompacte os arquivos de padrões de expressões
+2) Atualize os diretorios do código (estão com o caminho da minha maquina)
+3) Execute o código de Salvando Modelo de Expressão (importante para geração do h5)
+4) Execute o código Reconhecendo emoções 
+
+Pontos importantes:
+1) Utilizar o pip install para instalar todas as bibliotecas do código
+2) Alterar os diretórios (revisar e inserir de acordo com sua máquina)
+3) Lembrar de habilitar ou abrir sua webcam
+4) Executar e se divertir
+
+Lembre-se que pode ser ajustado de acordo com os padrões que são disponibilidades por emoções.
+Esse código esta com acurácia em torno de 70%, podendo ser nivelado e ajustado com padrões mais claros.
